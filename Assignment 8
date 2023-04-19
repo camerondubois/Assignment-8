@@ -1,0 +1,11 @@
+1. Species: Betta splendens 
+2. Gene: ALKAL2
+3. Rank 1 target sequence and genomic location: GGACTTGCGCAACGCGAGGACGG, NC_040901.1:9024910
+4. primer pair to check crispant genotypes,  sequence and coordinates for left and right primers: 
+Left primer sequence: GATCGTGAAGCACGTGGAG
+coordinates: NC_040901.1:9025004-9025023
+Right primer
+sequence: GGCCCTTTCCTATAAAGCTATG
+coordinates: NC_040901.1:9024733-9024755
+5. If you knock out this gene, what is the expected phenotype? 
+ALKAL2 is one of the genes in betta fish that contribute to coloration, specifically blue. ALKAL2 alleles are associated with a higher proportion of blue coloration of the body of the fish, as well as a decrease in the proportion of red. Therefore, knocking out this gene would result in a betta fish that has a large proportion of blue coloration. 
